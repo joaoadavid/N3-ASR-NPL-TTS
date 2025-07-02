@@ -28,7 +28,7 @@ Este projeto demonstra um pipeline local e offline de:
 bash
 ```
 git clone https://github.com/seuusuario/N3-ASR-NPL-TTS.git
-cd demo-asr-tts
+cd N3-ASR-NPL-TTS.git
 ```
 ---
 ### 3. Instale as dependências Python manualmente

@@ -66,6 +66,7 @@ ffmpeg -version
 Ele deve exibir algo como:
 ffmpeg version n6.1.1 ...
 ```
+---
 ## 🚀 5. Execute o projeto
 
 python main.py
@@ -73,7 +74,7 @@ python main.py
 Acesse no navegador:
 http://127.0.0.1:7860
 ```
-##💡 Como usar
+💡 Como usar
 ```
 Clique em "Transcrever" para gravar sua voz e obter o texto.
 

@@ -40,7 +40,7 @@ pip install pyttsx3
 ```
 ---
 ### 4. Baixe e configure o FFmpeg
-✅ Baixe o FFmpeg em:
+Baixe o FFmpeg em:
 
 https://www.gyan.dev/ffmpeg/builds/
 

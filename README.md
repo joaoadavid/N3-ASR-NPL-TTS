@@ -27,7 +27,7 @@ Este projeto demonstra um pipeline local e offline de:
 ## 1. Clone o projeto
 bash
 ```
-git clone https://github.com/seuusuario/demo-asr-tts.git
+git clone https://github.com/seuusuario/N3-ASR-NPL-TTS.git
 cd demo-asr-tts
 ```
 ---
